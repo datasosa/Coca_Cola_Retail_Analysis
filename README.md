@@ -1,6 +1,6 @@
 # Coca-Cola Sales Dashboard
 
-![Dashboard Screenshot](assets/images/dashboard.png)
+![Dashboard Screenshot](Cola_Sales_Dashboard.png)
 
 ## 📊 Dashboard Features
 - Operating Profit Analysis
@@ -16,7 +16,6 @@
 | Dasani Water   | $214.90             |
 
 ### Sales by State
-![Sales Map](assets/images/map.png)
 - Gulf of Mexico region dominates sales
 - State-level performance metrics available
 
